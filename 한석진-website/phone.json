@@ -1,0 +1,714 @@
+{
+  "version": 1,
+  "id": "71d6c5cc-a1ca-458a-855a-8eacb1c37fe6",
+  "title": "한석진",
+  "owner": "한석진",
+  "ownerAvatar": null,
+  "ownerInfo": {
+    "phone": "010-####-####",
+    "subtitle": "야근중",
+    "organization": "경호",
+    "birthday": "05-05"
+  },
+  "theme": "light",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "22:35",
+  "date": "2026-11-09",
+  "clockMode": "current",
+  "lockTextTone": "auto",
+  "lockWallpaperTransform": {
+    "x": 50,
+    "y": 50,
+    "scale": 1
+  },
+  "homeWallpaperTransform": {
+    "x": 50,
+    "y": 50,
+    "scale": 1
+  },
+  "lockWallpaperEffects": {
+    "blur": 0,
+    "opacity": 1
+  },
+  "homeWallpaperEffects": {
+    "blur": 13,
+    "opacity": 1
+  },
+  "lockCode": "0505",
+  "lockWallpaper": "assets/1.jpg",
+  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": true,
+    "calendar": true,
+    "diary": true,
+    "scrapbook": true,
+    "sns": true,
+    "calls": true,
+    "instory": true,
+    "browser": true
+  },
+  "appLayout": {
+    "home": [
+      "music",
+      "calendar",
+      "diary",
+      "browser",
+      "sns",
+      "calls",
+      "instory",
+      "notes"
+    ],
+    "dock": [
+      "contacts",
+      "photos",
+      "messages",
+      "scrapbook"
+    ]
+  },
+  "homeSlots": {
+    "notes": 7,
+    "music": 0,
+    "calendar": 1,
+    "diary": 2,
+    "sns": 4,
+    "calls": 5,
+    "instory": 6,
+    "browser": 3
+  },
+  "contacts": [
+    {
+      "id": "104fcea6-cdb2-4742-bccf-9f3f1dec9587",
+      "name": "에이든",
+      "subtitle": "알람시계",
+      "phone": "",
+      "favorite": false,
+      "avatar": null,
+      "relation": "동료, ##",
+      "organization": "회사"
+    },
+    {
+      "id": "7656af64-68fd-43c7-8ba6-b8f42522ccae",
+      "name": "의사",
+      "subtitle": "묘하게 기분 나쁨. 메세지 마지막에 ^^를 자주 붙임",
+      "phone": "",
+      "favorite": false,
+      "avatar": null,
+      "relation": "상담사",
+      "organization": "정신과"
+    },
+    {
+      "id": "5e17be0c-3ced-4a6e-ba67-4246b902ffcd",
+      "name": "도중러",
+      "subtitle": "도박중독자딜러\n카지노에서 일하는 애",
+      "phone": "",
+      "favorite": false,
+      "avatar": null,
+      "relation": "아는 사람",
+      "organization": "카지노"
+    }
+  ],
+  "threads": [
+    {
+      "id": "44dcb231-5721-4375-8918-81e1bdb064d5",
+      "contactId": "104fcea6-cdb2-4742-bccf-9f3f1dec9587",
+      "messages": [
+        {
+          "id": "82eea8f7-622f-426c-8983-38eaa7188e8e",
+          "kind": "date",
+          "text": "11월 9일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 11,
+            "day": 9,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "3fffd61e-42be-4802-a00c-36d906fc4786",
+          "from": "me",
+          "text": "에이든 붕어빵 먹어볼래?",
+          "time": "23:39"
+        },
+        {
+          "id": "d06e6cdc-cb2e-4a07-9175-6b48d3ae477d",
+          "from": "me",
+          "text": "에이든 붕어빵 먹어볼래?",
+          "time": "23:39"
+        },
+        {
+          "id": "23ef9bcc-3f38-4efa-89b9-dd09d061d57b",
+          "from": "me",
+          "text": "에이든 붕어빵 먹어볼래?",
+          "time": "23:39"
+        },
+        {
+          "id": "c839df25-07c4-4b0e-8f24-b6f5c63616fa",
+          "from": "them",
+          "text": "팥 사오면 던질거야",
+          "time": "23:40"
+        },
+        {
+          "id": "100e1d27-d117-4c00-8b0b-c70d46c99665",
+          "from": "them",
+          "text": "보고있어??",
+          "time": "23:40"
+        },
+        {
+          "id": "1e94480d-8545-4db3-9e6d-88f4eb70dc7f",
+          "from": "them",
+          "text": "센스잇게 사와야해 형씨",
+          "time": "23:41"
+        },
+        {
+          "id": "c96ca22f-338b-4ba8-8bcd-c5a6085cdbac",
+          "from": "me",
+          "text": "에이든 \n갑자기 임무가 생겨서 말이야ㅠㅠ\n임무 끝날동안 자리좀 비워야 할거같아!\n늦게말해서 미안해\n너무 걱정하지 말구~\n나중에 붕어빵 사줄게!",
+          "time": "23:41"
+        },
+        {
+          "id": "6417792b-dff9-484e-ab9d-46de3ec18203",
+          "from": "them",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "time": "23:41"
+        },
+        {
+          "id": "9678cba5-0bed-4c40-b854-5ce058cff922",
+          "from": "them",
+          "text": "곧 놀러갈게",
+          "time": "23:41"
+        },
+        {
+          "id": "a5f43122-6054-476d-9a05-94f95664a467",
+          "from": "them",
+          "text": "오랜만에 몸 좀 풀자고",
+          "time": "23:42"
+        },
+        {
+          "id": "023cf28a-0805-40b0-88c1-7cb1c6876712",
+          "from": "me",
+          "text": "놀러오다니? 바빠서 못 놀아주지\n나중에 실컷 놀아줄게 쉬고 있어",
+          "time": "23:42"
+        },
+        {
+          "id": "154276b4-ba05-47e6-bc1d-2ab37835d2d6",
+          "from": "them",
+          "text": "허튼 짓은 안하는게 좋을거야",
+          "time": "23:43"
+        },
+        {
+          "id": "4e499c66-ae2a-4df5-9015-5f84f148cffa",
+          "from": "them",
+          "text": "그리고 난 남에 말을 꽤 안 듣는 편이거든",
+          "time": "23:43"
+        },
+        {
+          "id": "8891b8bd-aefd-45ae-baab-80aa6178218e",
+          "from": "them",
+          "text": "한번 재밌게 놀아보자고",
+          "time": "23:43"
+        }
+      ],
+      "draft": "내 폰 언제 해킹 된거야",
+      "timelineVersion": 1
+    },
+    {
+      "id": "2177fb80-0e20-4f93-aa1b-7d3520e37586",
+      "contactId": "7656af64-68fd-43c7-8ba6-b8f42522ccae",
+      "messages": [
+        {
+          "id": "d4fdc2e4-d447-40d6-9dfa-95fbc6aa8219",
+          "kind": "date",
+          "text": "11월 9일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 11,
+            "day": 9,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "e42ec892-d37f-4b58-9fd8-6d5f601789e2",
+          "from": "them",
+          "text": "오늘 상담이에요^^",
+          "time": "23:45"
+        },
+        {
+          "id": "5203f9a0-d281-4684-bc7e-40ce8ba254b4",
+          "from": "me",
+          "text": "네.",
+          "time": "23:45"
+        },
+        {
+          "id": "eeaf4862-a1f3-4474-9621-84087b836e2c",
+          "kind": "date",
+          "text": "월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "weekday": 1
+          }
+        },
+        {
+          "id": "52d4ecd3-2267-42ab-ab3e-80d1a9b0eab3",
+          "from": "them",
+          "text": "오늘 10시 상담이에요 ^^",
+          "time": "23:45"
+        },
+        {
+          "id": "773a34e5-a3cc-4953-8616-fdc2f7561b16",
+          "from": "me",
+          "text": "네.",
+          "time": "23:45"
+        },
+        {
+          "id": "cefd5d05-7dad-4236-91a8-26fe33e6a248",
+          "kind": "date",
+          "text": "수요일",
+          "dateParts": {
+            "mode": "calendar",
+            "weekday": 3
+          }
+        },
+        {
+          "id": "9bf74c25-7b25-4625-ad83-67b648ed81b0",
+          "from": "me",
+          "text": "오늘 10시 상담이죠.",
+          "time": "23:46"
+        },
+        {
+          "id": "ac21b093-8eea-4b36-87dd-e276cb1a1596",
+          "from": "me",
+          "text": "달력에 적어 둬서 이제 문자 하지 않아도 됩니다.",
+          "time": "23:47"
+        },
+        {
+          "id": "8d389864-4e3d-443e-b2e9-ca95ce7f526e",
+          "from": "them",
+          "text": "네 알겠습니다",
+          "time": "23:46"
+        }
+      ],
+      "draft": "어우...",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "95c893dc-1c32-429b-a478-bc850a07654c",
+      "src": "assets/3.png",
+      "caption": "",
+      "date": "2026-11-10",
+      "favorite": false
+    },
+    {
+      "id": "ea09fdef-5b54-4f52-b244-2a1dd5448793",
+      "src": "assets/4.jpg",
+      "caption": "",
+      "date": "2026-11-10",
+      "favorite": false
+    },
+    {
+      "id": "0599c1ca-5515-4582-9f90-45eea69c3239",
+      "src": "assets/5.png",
+      "caption": "",
+      "date": "2026-11-10",
+      "favorite": false
+    },
+    {
+      "id": "c69f0778-3af5-427e-85ff-441d7710484b",
+      "src": "assets/6.jpg",
+      "caption": "",
+      "date": "2026-11-10",
+      "favorite": false
+    },
+    {
+      "id": "6ae402cc-a954-4207-b6f2-99469f26adb7",
+      "src": "assets/7.png",
+      "caption": "",
+      "date": "2026-11-10",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "8846d123-d8dc-410c-bb5f-d6e2fb3c9614",
+      "title": "B. 출발",
+      "body": "목표 대상 장소로 이동\n약 2시간 거리.\n새벽 12:32분 도착.\n위치 확인 완료 처리후 복귀",
+      "pinned": false,
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "0f0a3575-efe6-4d3c-8803-8d2953b7b963",
+      "title": "의뢰 A",
+      "body": "의뢰인 A\n목표\n30대 남성 처리.\n임무 완료 후\n사진과 함께 확인 메시지 보내기",
+      "pinned": false,
+      "updated": "2026-11-09"
+    }
+  ],
+  "music": {
+    "tracks": [
+      {
+        "id": "d5841586-3358-47fa-8305-09f559d5144b",
+        "title": "看着我的眼睛说",
+        "artist": "태양 라이언",
+        "cover": "assets/8.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=OTM80rqhx_8"
+      },
+      {
+        "id": "2cebb829-bcd8-4b06-9eba-2d95949fba21",
+        "title": "火红的萨日朗",
+        "artist": "행성",
+        "cover": "assets/9.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=x9mmpbA_PKI"
+      },
+      {
+        "id": "3b06932c-b15e-457a-8e66-302923592c03",
+        "title": "别让爱凋落",
+        "artist": "달아",
+        "cover": "assets/10.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=2LJZfp3RDm4"
+      },
+      {
+        "id": "2043a430-41f2-4d6e-a2fc-bfa73c8a0423",
+        "title": " 嚣张",
+        "artist": "달아",
+        "cover": "assets/11.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=-xiIQ-W1jGM"
+      }
+    ],
+    "playlists": [
+      {
+        "id": "42a29d6d-cbad-4347-996c-3573f3ed706f",
+        "title": "中國",
+        "description": "",
+        "cover": null,
+        "trackIds": [
+          "d5841586-3358-47fa-8305-09f559d5144b",
+          "2cebb829-bcd8-4b06-9eba-2d95949fba21",
+          "3b06932c-b15e-457a-8e66-302923592c03",
+          "2043a430-41f2-4d6e-a2fc-bfa73c8a0423"
+        ]
+      }
+    ]
+  },
+  "calendar": {
+    "events": [
+      {
+        "id": "9b3ca57b-4820-4e64-948b-bb9246c2e967",
+        "title": "조직 회의",
+        "date": "2026-11-09",
+        "time": "13:30",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "의뢰인 A 임무 보고서 제출\n팀원 회의\n회식 일정",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "252a7bc7-bf79-4b49-bd6f-a8a7210d2f59",
+        "title": "팀원 회식",
+        "date": "2026-11-12",
+        "time": "22:00",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "회식",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "2af83ad3-787e-4f38-a4a1-4a9031cf934b",
+        "title": "생일",
+        "date": "2026-05-05",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "6c440775-4451-4f88-b589-ac2c5cf8bed0",
+        "title": "의뢰",
+        "date": "2026-11-05",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "의뢰인 A 임무 처리",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "c731d366-04d3-4521-a6e1-ccc5ff363fb3",
+        "title": "의뢰 완료",
+        "date": "2026-11-06",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "보고서 작성 하기",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "c8e38ac2-f597-46e0-b738-2c166062bf85",
+        "title": "의뢰 접수",
+        "date": "2026-11-01",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "30대 직장인 B 처리 임무",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "888eceeb-5677-4579-a328-d2d091753667",
+        "title": "보고서 제출",
+        "date": "2026-11-07",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "의뢰인 A",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "91d10dca-3bf0-4152-864b-90135ff1e4db",
+        "title": "뺴뺴로",
+        "date": "2026-11-11",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "팀원들 4명 분량",
+        "color": "#3B82F6"
+      }
+    ]
+  },
+  "diary": {
+    "entries": [
+      {
+        "id": "bdab69a7-c9a2-4cc8-9c15-1773a3cb60b9",
+        "title": "의뢰 접수",
+        "date": "2026-11-01",
+        "mood": "귀찮음",
+        "body": "의뢰인 A가 새로운 의뢰를 넣었다.\n30대 남성 처리\n원래도 종종 요청을 받았지만 요즘따라 빈도가 늘어났다.\n기분탓일까 아니면 맛이라도 들렸나",
+        "photos": []
+      },
+      {
+        "id": "fd71981f-8c69-4516-87ae-2a47f11e6b47",
+        "title": "의뢰",
+        "date": "2026-11-09",
+        "mood": "귀찮음",
+        "body": "목표 대상 장소로 이동 하는데\n약 2시간 정도 걸렸는데... 크게 보이는 것은 없다. \n새벽 12:32분 도착.\n건물 위치 확인 완료후 바람 방향 체크후 영점 조절 함 그날따라 바람이 많이 불어서 그런지 영점을 맞춰도 흔들렸다.\n나중에 저격수 라인한테 물어봐야 겠어",
+        "photos": []
+      },
+      {
+        "id": "e928263e-dbdc-43be-9160-9f9455d44dbc",
+        "title": "붕어빵",
+        "date": "2026-08-11",
+        "mood": "화남",
+        "body": "그냥 붕어빵 한번 먹으려고 골목길 들어갔다가\n이상한 약물에 납치까지 당했다.\n상부에서 몇주는 쉬라는 내용이 내려왔으니 한동안 일은 피해야 겠다. ...붕어빵 트라우마 생길것 같다.\n다신 혼자서 새벽에 나가지 않을거야. ",
+        "photos": []
+      },
+      {
+        "id": "914da6ba-8c6b-4025-80ed-2815b11236bc",
+        "title": ".",
+        "date": "2026-08-04",
+        "mood": ".",
+        "body": "비\n오늘은 그 사람을 만났다.\n오랜만에 마주한 얼굴은 여전히 익숙했다. 다정한 목소리도, 여유로운 표정도, 나를 바라보는 눈빛도.\n그래서였을까.\n처음에는 손이 떨렸다.\n\n손에 쥔 송곳이 유난히 무겁게 느껴졌다. 내가 정말 이럴 수 있을까. 지금이라도 그만두면 아무 일도 없었던 것처럼 돌아갈 수 있을까.\n\n그 사람은 그런 나를 보며 웃었다. 뭐라고 말했더라?  \"아직도 나를 무서워하는구나.\" 였나\n\n그 말에 순간 숨이 턱 막혔던것 같다.\n그래. 나는 아직도 무서웠다. 그 사람이 무슨 말을 할지, 어떤 표정을 지을지, 내가 무슨 잘못을 했는지 또다시 생각하게 될까 봐.\n\n그제서야 나는 아직도 그의 눈치를 보며 살고있다는 것을 깨달았다.\n\n내가 무슨 생각을 하는지보다, 그 사람이 나를 어떻게 생각할지를 먼저 걱정하고 있었다.\n\n그게 얼마나 우스운 일인지 알고 보니 차분하게 현실을 마주할 수 있었던 것 같다.\n그의 말에 아니라고 말하고\n미소가 짙어지는 그 순간\n무슨 생각을 했는지는 잘 모르겠다.\n다만 더 이상 물러서고 싶지 않았다. 그 사람이 내게 남긴 말들, 내가 오랫동안 삼켜온 감정들, 그리고 내 것이 아닌 죄책감까지.\n그 모든 것을 오늘 끝내고 싶었다.\n나는 결국 그를 공격했다.\n그의 왼쪽 눈에 송곳이 닿았고, 그는 잠시 말을 잃었지만, 그런데도 그는 웃었다.\n정말이지 마지막까지 이해할 수 없는 사람이었다.\n\n고통스러운 상황에서도 입가에 미소를 걸고 나를 바라보았었다.  마치 아직도 자신이 나를 알고 있다는 듯이.\n그가 내 이름을 불렀고\n나는 대답하지 않았다.\n\n그는 웃으며 한 걸음 물러났다.\n\n그 모습을 보면서도 이상하게 아무런 말이 나오지 않았다.\n기뻐해야 하는 걸까. 분노해야 하는 걸까. 아니면 이제야 끝났다는 사실에 안도해야 하는 걸까.\n잘 모르겠다.\n하지만 하나는 확실했다.\n후련했다.\n정말 후련했다.\n\n그렇지만 내가 잃어버린 시간까지 되돌아오는 건 아니겠지.\n그래도 괜찮다.\n오늘은 그걸로 충분하다.",
+        "photos": []
+      }
+    ]
+  },
+  "scrapbook": {
+    "boards": []
+  },
+  "sns": {
+    "profile": {
+      "name": "한석진",
+      "handle": "hansucjin0505",
+      "bio": "야근"
+    },
+    "posts": [
+      {
+        "id": "508c8402-9bc1-48bc-b945-1cd73743ea6a",
+        "authorId": "me",
+        "text": "오늘도 야근 내일도 야근",
+        "likes": "7",
+        "replyCount": "5",
+        "replies": [
+          {
+            "id": "b13a062b-9309-4576-aa00-228940d7d6ba",
+            "authorId": "guest",
+            "author": {
+              "name": "###",
+              "handle": "1111"
+            },
+            "text": "요즘 의뢰가 많긴 하죠. 내일 뵙겠습니다."
+          },
+          {
+            "id": "db97ea89-86c3-4639-9ee0-192f5b96d6f9",
+            "authorId": "guest",
+            "author": {
+              "name": "딜러",
+              "handle": "lucky"
+            },
+            "text": "형씨~ 종종 쉬면서 해야지.\n가끔 찾아와 내가 서비스좀 줄게"
+          }
+        ]
+      }
+    ]
+  },
+  "calls": [
+    {
+      "id": "aaaebcf8-c512-46c9-836b-bc99cdcdc2c6",
+      "type": "outgoing",
+      "name": "에이든",
+      "date": "2026-11-09",
+      "time": "23:30"
+    },
+    {
+      "id": "c8bbabde-9395-469f-b839-bf0fcee677e7",
+      "type": "missed",
+      "name": "에이든",
+      "date": "2026-11-09",
+      "time": "23:27"
+    },
+    {
+      "id": "5e91d4d4-4b1c-4170-9cff-e3542d7c218f",
+      "type": "missed",
+      "name": "에이든",
+      "date": "2026-11-09",
+      "time": "23:20"
+    },
+    {
+      "id": "e272b9a8-0e3d-49c3-9597-51b2d215cf13",
+      "type": "outgoing",
+      "contactId": "7656af64-68fd-43c7-8ba6-b8f42522ccae",
+      "time": "10:30"
+    },
+    {
+      "id": "c61f319d-a6ee-4a21-bc48-964b43d65b54",
+      "type": "missed",
+      "name": "의사",
+      "time": "10:00"
+    },
+    {
+      "id": "a57460f5-e714-47fd-99df-cf5f569353ff",
+      "type": "outgoing",
+      "contactId": "104fcea6-cdb2-4742-bccf-9f3f1dec9587"
+    },
+    {
+      "id": "5735e142-5e9f-44a2-a521-8d9eec39684c",
+      "type": "incoming",
+      "contactId": "5e17be0c-3ced-4a6e-ba67-4246b902ffcd"
+    },
+    {
+      "id": "0c92a467-ba39-4b20-9384-45850723c014",
+      "type": "incoming",
+      "contactId": "104fcea6-cdb2-4742-bccf-9f3f1dec9587"
+    }
+  ],
+  "voicemails": [
+    {
+      "id": "0d2a9644-b591-4d08-a8db-bf9a41e9b7f9",
+      "name": "에이든",
+      "time": "23:27",
+      "text": "붕어빵 사러간거 아니지??\n자는거야?"
+    },
+    {
+      "id": "74d95939-7a0e-4426-8083-e1b441a784ff",
+      "name": "의사",
+      "time": "10:30",
+      "text": "석진씨 오늘 오전 11시 상담입니다.\n꼭 와주세요^^"
+    }
+  ],
+  "instory": {
+    "profile": {
+      "name": "한석진",
+      "handle": "hansucjin",
+      "bio": "경호원\n활동 x",
+      "followers": "73",
+      "following": "73"
+    },
+    "posts": [
+      {
+        "id": "13176305-6d0b-41cd-a560-f3178b15e7b7",
+        "kind": "reel",
+        "authorId": "me",
+        "images": [
+          "assets/12.jpg"
+        ],
+        "caption": "수영(?)"
+      },
+      {
+        "id": "36c7626b-d861-438d-92e8-726fa1c72a5e",
+        "kind": "post",
+        "authorId": "me",
+        "images": [
+          "assets/13.png"
+        ],
+        "caption": "바다",
+        "location": "바다",
+        "likes": "53"
+      },
+      {
+        "id": "9041bbfd-c072-4f9e-a956-061d7dd41330",
+        "kind": "post",
+        "authorId": "me",
+        "images": [
+          "assets/14.jpg"
+        ],
+        "caption": "옥상",
+        "location": "옥상",
+        "likes": "27"
+      }
+    ],
+    "stories": []
+  },
+  "browser": {
+    "sites": [
+      {
+        "id": "a1836eeb-3214-437c-bfab-46b795e58c02",
+        "name": "naver",
+        "icon": "assets/15.jpg"
+      }
+    ],
+    "searches": [
+      {
+        "id": "ab769496-5b4a-40d5-8cb5-25b9c8c96e85",
+        "query": "무료 음악"
+      },
+      {
+        "id": "c48f601d-c774-47ba-a62a-b85c627d88d6",
+        "query": "유튜브"
+      },
+      {
+        "id": "cbd44298-4142-4a56-8f8f-16de741f723e",
+        "query": "남자 생일선물 추천"
+      },
+      {
+        "id": "21e162f9-f85a-46af-a554-cf9e2ca42159",
+        "query": "보고서 양식"
+      }
+    ]
+  },
+  "updatedAt": "2026-11-09T15:02:39.935Z"
+}
